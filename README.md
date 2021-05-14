@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![cool gif](https://github.githubassets.com/images/mona-whisper.gif)
+
+I should add something here...
+
 <!--
 **lmcanavals/lmcanavals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
